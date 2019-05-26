@@ -1,1 +1,4 @@
-data/
+data/raw/all/
+data/raw/application
+data/raw/all/all.zip
+data/processed/
